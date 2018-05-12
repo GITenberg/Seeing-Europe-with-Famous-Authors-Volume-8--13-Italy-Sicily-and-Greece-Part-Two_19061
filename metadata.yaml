@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3081
     wikipedia: http://en.wikipedia.org/wiki/Francis_Whiting_Halsey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19061#Seeing-Europe-with-Famous-Authors-Volume-8--13-Italy-Sicily-and-Greece-Part-Two
 gutenberg_bookshelf: Greece
 gutenberg_issued: '2006-08-16'
 gutenberg_type: Text
